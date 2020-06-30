@@ -1,0 +1,13 @@
+* {
+  max-width: 300px;
+}
+
+html {
+  background-image: url(../Images/fuji_mobile.png);
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+  /* background-position: center center; */
+  min-height: 100vh;
+  max-width: 300px;
+}
